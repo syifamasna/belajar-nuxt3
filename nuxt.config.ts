@@ -7,8 +7,8 @@ export default defineNuxtConfig({
 
   pwa: {
     manifest:{
-      "name": "pustakawan",
-      "short_name": "pustakawan",
+      "name": "Farasya Hijab",
+      "short_name": "farasya",
       "theme_color": "#fff",
       "background_color": "#fff",
       "display": "standalone",
