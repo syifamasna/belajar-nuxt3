@@ -3,12 +3,12 @@
         <div class="container">
             <div class="flex justify-between items-center">
                 <div>
-                    <NuxtLink to="/" class="text-xl font-bold">SMK Coding</NuxtLink>
+                    <NuxtLink to="/" class="text-xl font-bold">Farasya Shop</NuxtLink>
                 </div>
                 <nav class="flex items-center gap-6">
-                    <NuxtLink to="/" class="text-base">Home</NuxtLink>
-                    <NuxtLink to="/product" class="text-base">Products</NuxtLink>
-                    <NuxtLink to="/cart" class="text-base">Cart</NuxtLink>
+                    <NuxtLink to="/" class="text-base">Beranda</NuxtLink>
+                    <NuxtLink to="/product" class="text-base">Produk</NuxtLink>
+                    <NuxtLink to="/cart" class="text-base">Keranjang</NuxtLink>
                 </nav>
             </div>
         </div>
